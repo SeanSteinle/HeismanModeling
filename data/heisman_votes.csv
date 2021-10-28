@@ -6,7 +6,7 @@ Rk,Player,School,Class,Pos,1st,2nd,3rd,Tot,Summary,Year
 5,Najee Harris*\najee-harris-1,Alabama,SR,RB,16,47,74,216,251 Att 1466 Yds 5.8 Avg 26 TD,2020
 6,Breece Hall*\breece-hall-1,Iowa State,SO,RB,6,10,26,64,279 Att 1572 Yds 5.6 Avg 21 TD,2020
 7,Justin Fields*\justin-fields-2,Ohio State,JR,QB,5,6,21,48,158 Cmp 225 Att 2100 Yds 22 TD 6 Int,2020
-8,Zach Wilson*\zach-wilson-3,Brigham Young,JR,QB,3,6,21,42,247 Cmp 336 Att 3692 Yds 33 TD 3 Int,2020
+8,Zach Wilson*\zach-wilson-3,BYU,JR,QB,3,6,21,42,247 Cmp 336 Att 3692 Yds 33 TD 3 Int,2020
 9,Ian Book*\ian-book-1,Notre Dame,SR,QB,5,5,13,38,228 Cmp 353 Att 2830 Yds 15 TD 3 Int,2020
 10,Kyle Pitts*\kyle-pitts-1,Florida,JR,TE,0,7,10,24,43 Rec 770 Yds 17.9 Avg 12 TD,2020
 1,Joe Burrow*\joe-burrow-1,LSU,SR,QB,841,41,3,2608,402 Cmp 527 Att 5671 Yds 60 TD 6 Int,2019
@@ -59,11 +59,11 @@ Rk,Player,School,Class,Pos,1st,2nd,3rd,Tot,Summary,Year
 7,Dalvin Cook*\dalvin-cook-1,Florida State,SO,RB,7,18,22,79,229 Att 1691 Yds 7.4 Avg 19 TD,2015
 8,Ezekiel Elliott*\ezekiel-elliott-1,Ohio State,JR,RB,5,7,28,57,289 Att 1821 Yds 6.3 Avg 23 TD,2015
 9,Connor Cook*\connor-cook-1,Michigan State,SR,QB,2,3,1,13,229 Cmp 408 Att 3131 Yds 24 TD 7 Int,2015
-10,Trevone Boykin*\trevone-boykin-1,Texas Christian,SR,QB,1,3,4,13,256 Cmp 395 Att 3574 Yds 31 TD 10 Int,2015
+10,Trevone Boykin*\trevone-boykin-1,TCU,SR,QB,1,3,4,13,256 Cmp 395 Att 3574 Yds 31 TD 10 Int,2015
 1,Marcus Mariota*\marcus-mariota-1,Oregon,JR,QB,788,74,22,2534,304 Cmp 445 Att 4454 Yds 42 TD 4 Int,2014
 2,Melvin Gordon*\melvin-gordon-1,Wisconsin,JR,RB,37,432,275,1250,343 Att 2587 Yds 7.5 Avg 29 TD,2014
 3,Amari Cooper*\amari-cooper-1,Alabama,JR,WR,49,280,316,1023,124 Rec 1727 Yds 13.9 Avg 16 TD,2014
-4,Trevone Boykin*\trevone-boykin-1,Texas Christian,JR,QB,7,45,104,218,301 Cmp 492 Att 3901 Yds 33 TD 10 Int,2014
+4,Trevone Boykin*\trevone-boykin-1,TCU,JR,QB,7,45,104,218,301 Cmp 492 Att 3901 Yds 33 TD 10 Int,2014
 5,J.T. Barrett*\jt-barrett-1,Ohio State,FR,QB,0,19,40,78,203 Cmp 314 Att 2834 Yds 34 TD 10 Int,2014
 6,Jameis Winston*\jameis-winston-1,Florida State,SO,QB,4,10,19,51,305 Cmp 467 Att 3907 Yds 25 TD 18 Int,2014
 7,Tevin Coleman\tevin-coleman-1,Indiana,JR,RB,2,8,22,44,270 Att 2036 Yds 7.5 Avg 15 TD,2014
@@ -80,16 +80,16 @@ Rk,Player,School,Class,Pos,1st,2nd,3rd,Tot,Summary,Year
 8,Derek Carr*\derek-carr-1,Fresno State,SR,QB,6,23,43,107,454 Cmp 659 Att 5083 Yds 50 TD 8 Int,2013
 9,Braxton Miller*\braxton-miller-1,Ohio State,JR,QB,4,21,37,91,162 Cmp 255 Att 2094 Yds 24 TD 7 Int,2013
 10,Ka'Deem Carey*\kadeem-carey-1,Arizona,JR,RB,2,14,36,70,349 Att 1885 Yds 5.4 Avg 19 TD,2013
-1,Johnny Manziel*\johnny-manziel-1,Texas A&M,FR,QB,474,252,103,2029,295 Cmp 434 Att 3706 Yds 26 TD 9 Int, 2012
-2,Manti Te'o*\manti-teo-1,Notre Dame,SR,LB,321,309,126,1706,55 Solo 58 Ast 1.5 Sk 7 Int, 2012
-3,Collin Klein*\collin-klein-1,Kansas State,SR,QB,60,197,320,894,197 Cmp 304 Att 2641 Yds 16 TD 9 Int, 2012
-4,Marqise Lee*\marqise-lee-1,USC,SO,WR,19,33,84,207,118 Rec 1721 Yds 14.6 Avg 14 TD, 2012
-5,Braxton Miller\braxton-miller-1,Ohio State,SO,QB,3,29,77,144,148 Cmp 254 Att 2039 Yds 15 TD 6 Int, 2012
-6,Jadeveon Clowney*\jadeveon-clowney-1,South Carolina,SO,DL,4,13,23,61,40 Solo 14 Ast 13.0 Sk, 2012
-7,Jordan Lynch*\jordan-lynch-1,Northern Illinois,JR,QB,3,8,27,52,237 Cmp 394 Att 3138 Yds 25 TD 6 Int, 2012
-8,Tavon Austin*\tavon-austin-1,West Virginia,SR,WR,6,4,21,47,114 Rec 1289 Yds 11.3 Avg 12 TD, 2012
-9,Kenjon Barner*\kenjon-barner-1,Oregon,SR,RB,1,12,15,42,278 Att 1767 Yds 6.4 Avg 21 TD, 2012
-10,Jarvis Jones*\jarvis-jones-1,Georgia,JR,LB,1,10,18,41,52 Solo 33 Ast 14.5 Sk 1 Int, 2012
+1,Johnny Manziel*\johnny-manziel-1,Texas A&M,FR,QB,474,252,103,2029,295 Cmp 434 Att 3706 Yds 26 TD 9 Int,2012
+2,Manti Te'o*\manti-teo-1,Notre Dame,SR,LB,321,309,126,1706,55 Solo 58 Ast 1.5 Sk 7 Int,2012
+3,Collin Klein*\collin-klein-1,Kansas State,SR,QB,60,197,320,894,197 Cmp 304 Att 2641 Yds 16 TD 9 Int,2012
+4,Marqise Lee*\marqise-lee-1,USC,SO,WR,19,33,84,207,118 Rec 1721 Yds 14.6 Avg 14 TD,2012
+5,Braxton Miller\braxton-miller-1,Ohio State,SO,QB,3,29,77,144,148 Cmp 254 Att 2039 Yds 15 TD 6 Int,2012
+6,Jadeveon Clowney*\jadeveon-clowney-1,South Carolina,SO,DL,4,13,23,61,40 Solo 14 Ast 13.0 Sk,2012
+7,Jordan Lynch*\jordan-lynch-1,Northern Illinois,JR,QB,3,8,27,52,237 Cmp 394 Att 3138 Yds 25 TD 6 Int,2012
+8,Tavon Austin*\tavon-austin-1,West Virginia,SR,WR,6,4,21,47,114 Rec 1289 Yds 11.3 Avg 12 TD,2012
+9,Kenjon Barner*\kenjon-barner-1,Oregon,SR,RB,1,12,15,42,278 Att 1767 Yds 6.4 Avg 21 TD,2012
+10,Jarvis Jones*\jarvis-jones-1,Georgia,JR,LB,1,10,18,41,52 Solo 33 Ast 14.5 Sk 1 Int,2012
 1,Robert Griffin III*\robert-griffin-iii-1,Baylor,JR,QB,405,168,136,1687,291 Cmp 402 Att 4293 Yds 37 TD 6 Int,2011
 2,Andrew Luck*\andrew-luck-1,Stanford,JR,QB,247,250,166,1407,288 Cmp 404 Att 3517 Yds 37 TD 10 Int,2011
 3,Trent Richardson*\trent-richardson-1,Alabama,JR,RB,138,207,150,978,283 Att 1679 Yds 5.9 Avg 21 TD,2011
@@ -108,7 +108,7 @@ Rk,Player,School,Class,Pos,1st,2nd,3rd,Tot,Summary,Year
 6,Denard Robinson*\denard-robinson-1,Michigan,SO,QB,6,16,34,84,182 Cmp 291 Att 2570 Yds 18 TD 11 Int,2010
 7,Ryan Mallett*\ryan-mallett-1,Arkansas,JR,QB,0,11,19,41,266 Cmp 411 Att 3869 Yds 32 TD 12 Int,2010
 8,Colin Kaepernick*\colin-kaepernick-1,Nevada,SR,QB,0,7,17,31,233 Cmp 359 Att 3022 Yds 21 TD 8 Int,2010
-9,Andy Dalton*\andy-dalton-1,Texas Christian,SR,QB,4,3,12,30,209 Cmp 316 Att 2857 Yds 27 TD 6 Int,2010
+9,Andy Dalton*\andy-dalton-1,TCU,SR,QB,4,3,12,30,209 Cmp 316 Att 2857 Yds 27 TD 6 Int,2010
 10,Owen Marecic*\owen-marecic-1,Stanford,SR,RB,3,1,5,16,23 Att 46 Yds 2.0 Avg 5 TD,2010
 1,Mark Ingram*\mark-ingram-1,Alabama,SO,RB,227,236,151,1304,271 Att 1658 Yds 6.1 Avg 17 TD,2009
 2,Toby Gerhart*\toby-gerhart-1,Stanford,SR,RB,222,225,160,1276,343 Att 1871 Yds 5.5 Avg 28 TD,2009
@@ -197,13 +197,13 @@ Rk,Player,School,Class,Pos,1st,2nd,3rd,Tot,Summary,Year
 5,David Carr*\david-carr-1,Fresno State,SR,QB,34,60,58,280,344 Cmp 533 Att 4839 Yds 46 TD 9 Int,2001
 6,Antwaan Randle El\antwaan-randle-el-1,Indiana,SR,QB,46,39,51,267,118 Cmp 231 Att 1664 Yds 9 TD 5 Int,2001
 7,Roy Williams\roy-williams-2,Oklahoma,JR,DB,13,36,35,146,2 FR 25 Yds 1 TD,2001
-8,Bryant McKinnie\bryant-mckinnie-1,Miami (FL),SR,OL,26,12,14,116,2001
-9,Dwight Freeney\dwight-freeney-1,Syracuse,SR,DL,2,6,24,42,2001
+8,Bryant McKinnie\bryant-mckinnie-1,Miami (FL),SR,OL,26,12,14,116,,2001
+9,Dwight Freeney\dwight-freeney-1,Syracuse,SR,DL,2,6,24,42,,2001
 10,Julius Peppers\julius-peppers-1,North Carolina,JR,DL,2,10,15,41,3 Int 42 Yds 1 TD,2001
 1,Chris Weinke\chris-weinke-1,Florida State,SR,QB,369,216,89,1628,266 Cmp 431 Att 4167 Yds 33 TD 11 Int,2000
 2,Josh Heupel*\josh-heupel-1,Oklahoma,SR,QB,286,290,114,1552,305 Cmp 472 Att 3606 Yds 20 TD 15 Int,2000
 3,Drew Brees*\drew-brees-1,Purdue,SR,QB,69,107,198,619,309 Cmp 512 Att 3668 Yds 26 TD 12 Int,2000
-4,LaDainian Tomlinson\ladainian-tomlinson-1,Texas Christian,SR,RB,47,110,205,566,369 Att 2158 Yds 5.8 Avg 22 TD,2000
+4,LaDainian Tomlinson\ladainian-tomlinson-1,TCU,SR,RB,47,110,205,566,369 Att 2158 Yds 5.8 Avg 22 TD,2000
 5,Damien Anderson*\damien-anderson-1,Northwestern,SR,RB,6,20,43,101,311 Att 2063 Yds 6.6 Avg 23 TD,2000
 6,Michael Vick\michael-vick-1,Virginia Tech,SO,QB,7,14,34,83,87 Cmp 161 Att 1234 Yds 8 TD 6 Int,2000
 7,Santana Moss\santana-moss-1,Miami (FL),SR,WR,3,9,28,55,45 Rec 748 Yds 16.6 Avg 5 TD,2000
